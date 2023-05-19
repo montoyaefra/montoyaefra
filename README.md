@@ -4,7 +4,7 @@
 
 [![Twitter: EfraMontoya](https://img.shields.io/twitter/follow/efrainmontoyita?style=social)](https://twitter.com/efrainmontoyita)
 [![GitHub EfraMonrtoya](https://img.shields.io/github/followers/montoyaefra?label=follow&style=social)]([https://github.com/Thaiane](https://github.com/montoyaefra))
-<h5>Linkedin <img src="https://img.shields.io/badge/-erickmontoya-blue" /> </h5>
+<a href="https://www.linkedin.com/in/erick-montoya-637208229/">Linkedin<img src="https://img.shields.io/badge/-erickmontoya-blue" /> </a>
 
 
 ```javascript
