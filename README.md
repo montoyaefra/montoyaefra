@@ -3,7 +3,7 @@
 
 
 [![Twitter: EfraMontoya](https://img.shields.io/twitter/follow/efrainmontoyita?style=social)](https://twitter.com/efrainmontoyita)
-[![Linkedin: ErickMontoya](https://img.shields.io/badge/-erickmontoya-blue"style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erick-montoya-637208229/)](https://www.linkedin.com/in/erick-montoya-637208229/)
+(https://img.shields.io/badge/-erickmontoya-blue"style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erick-montoya-637208229/)
 [![GitHub EfraMonrtoya](https://img.shields.io/github/followers/montoyaefra?label=follow&style=social)]([https://github.com/Thaiane](https://github.com/montoyaefra))
 
 
