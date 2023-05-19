@@ -15,4 +15,4 @@ const efra = {
   
   ```
 
-<img src="https://gifsanimados.de/img-gifsanimados.de/n/naruto-shippuden/gaara.gif" width="60px"> 
+<img src="https://gifsanimados.de/img-gifsanimados.de/n/naruto-shippuden/gaara.gif" width="100px"> 
