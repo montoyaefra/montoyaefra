@@ -14,4 +14,4 @@ const efra = {
   tools: [MySQL,React, Next, Node, Laravel, AWS, Boostrap, Taildwind, Git],
   }
 
-![gaara](https://github.com/montoyaefra/montoyaefra/assets/129312514/3b0e623c-2ee7-4379-bd0b-370d8cb0b8c0)
+<img src="[https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif](https://gifsanimados.de/img-gifsanimados.de/n/naruto-shippuden/gaara.gif)" width="60"> 
