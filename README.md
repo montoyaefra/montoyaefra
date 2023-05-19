@@ -3,7 +3,7 @@
 
 
 [![Twitter: EfraMontoya](https://img.shields.io/twitter/follow/efrainmontoyita?style=social)](https://twitter.com/efrainmontoyita)
-<img src="https://img.shields.io/static/v1?"/>
+<img src="https://img.shields.io/badge/-erickmontoya-blue" />
 [![GitHub EfraMonrtoya](https://img.shields.io/github/followers/montoyaefra?label=follow&style=social)]([https://github.com/Thaiane](https://github.com/montoyaefra))
 
 
