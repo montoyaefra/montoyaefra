@@ -3,7 +3,7 @@
 
 
 [![Twitter: EfraMontoya](https://img.shields.io/twitter/follow/efrainmontoyita?style=social)](https://twitter.com/efrainmontoyita)
-[![GitHub EfraMonrtoya](https://img.shields.io/github/followers/montoyaefra?label=follow&style=social)]([https://github.com/Thaiane](https://github.com/montoyaefra))
+[![GitHub montoyaefra](https://img.shields.io/github/followers/montoyaefra?label=follow&style=social)]([https://github.com/montoyaefra](https://github.com/montoyaefra))
 
 
 ```javascript
