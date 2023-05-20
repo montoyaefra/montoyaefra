@@ -8,7 +8,7 @@
 
 ```javascript
 const efra = {
-  pronouns: "hi" | "him",
+  pronouns: "he" | "him",
   code: [Javascript, HTML, CSS, PHP],
   tools: [MySQL,React, Next, Node, Laravel, AWS, Boostrap, Taildwind, Git],
   }
