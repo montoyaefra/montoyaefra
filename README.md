@@ -10,7 +10,7 @@
 const efra = {
   pronouns: "he" | "him",
   code: [Javascript, HTML, CSS, PHP],
-  tools: [MySQL,React, Next, Node, Laravel, AWS, Boostrap, Taildwind, Git],
+  tools: [MySQL,React, Next, Laravel, Boostrap, Taildwind, Git],
   }
   
   ```
