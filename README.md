@@ -8,10 +8,10 @@
 
 
 ```javascript
-const efra = {
+const erick = {
   pronouns: "he" | "him",
-  code: [Javascript, HTML, CSS, PHP],
-  tools: [MySQL,React, Next, Laravel, Boostrap, Taildwind, Git],
+  code: [Javascript, HTML, CSS, PHP, Python],
+  tools: [MySQL, React, Laravel, Bootstrap, Taildwind, Git],
   }
   
   ```
